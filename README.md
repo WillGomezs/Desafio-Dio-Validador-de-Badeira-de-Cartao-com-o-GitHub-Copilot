@@ -13,7 +13,7 @@ Validador de Bandeira de Cartão de Crédito com o GitHub Copilot.
 
 ## 💻 Tecnologias e Ferramentas
 
-![GitHub Copilot](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Copilot&color=000000&logo=GitHub+Copilot&logoColor=FFFFFF&label=) https://logospng.org/wp-content/uploads/javascript.png
+![GitHub Copilot](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Copilot&color=000000&logo=GitHub+Copilot&logoColor=FFFFFF&label=) 
 
 ## 👨🏽‍💻 Autor
 
